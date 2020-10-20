@@ -1,0 +1,2 @@
+# menghitung-segitiga
+tugas kedua
